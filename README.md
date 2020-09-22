@@ -20,7 +20,6 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
     ### Micro Projects: 
 
-	- __Python__
     - __Python__
 		- [Visual Analysis of real estate market prices](https://github.com/janetcheung-byte/data_visualization): This dashboard presents a visual analysis of historical prices of house units, sale price per square foot and gross rent in San Francisco, California from 2010 to 2016. 
 
