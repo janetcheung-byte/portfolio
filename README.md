@@ -5,21 +5,20 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 
 - ### Machine Learning
-	- __Python__
-		- [Data Analysis of credit risk using Machine Learning models](https://github.com/janetcheung-byte/portfolio/tree/master/machine_learning): Data analysis of loans by machine learning models. Resampling and Ensemble Learning are the techniques used I used to build and evaluate models using the two following techniques from imbalanced-learn and Scikit-learn libraries.
 
+	- [Data Analysis of credit risk using Machine Learning models](https://github.com/janetcheung-byte/portfolio/tree/master/machine_learning): Data analysis of loans by machine learning models. Resampling and Ensemble Learning are the techniques used I used to build and evaluate models using the two following techniques from imbalanced-learn and Scikit-learn libraries.
 
-	_Tools: Scikit-learn, Pandas, Matplotlib, Sklearn, Imblearn
+   _Tools: Scikit-learn, Pandas, Matplotlib, Sklearn, Imblearn_
 
 - ### SQL
-	- __Python, SQL__
-		- [Data Analysis of credit card transactions](https://github.com/janetcheung-byte/sql_data_analysis/blob/master/data_analysis.ipynb): Analyze historical credit card transactions and consumption patterns in order to identify possible fraudulent transactions.
+
+	- [Data Analysis of credit card transactions](https://github.com/janetcheung-byte/sql_data_analysis/blob/master/data_analysis.ipynb): Analyze historical credit card transactions and consumption patterns in order to identify possible fraudulent transactions.
 
 	_Tools: Postgres SQL, Pandas, Numpy_
 
  - ### Data Analysis and Visualisation
-	- __Python__
-		- [Visual Analysis of real estate market prices](https://github.com/janetcheung-byte/data_visualization): This dashboard presents a visual analysis of historical prices of house units, sale price per square foot and gross rent in San Francisco, California from 2010 to 2016. 
+	
+	- [Visual Analysis of real estate market prices](https://github.com/janetcheung-byte/data_visualization): This dashboard presents a visual analysis of historical prices of house units, sale price per square foot and gross rent in San Francisco, California from 2010 to 2016. 
 
 		
 	_Tools: Pandas, Seaborn and Matplotlib_
