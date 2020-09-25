@@ -28,4 +28,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 		- [Time Series Forecasting model](https://github.com/janetcheung-byte/a_yen_for_the_future): Built a time series forecasting model in Python to predict future movements in the value of the Japanese yen versus the U.S. dollar
 
 
-       ### If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at janetcheung897@gmail.com. 
+     
+
+## I also dabble in all other kinds of technology. You can find a general portfolio [here](https://github.com/janetcheung-byte/general_portfolio).
+
+## If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at janetcheung897@gmail.com 
