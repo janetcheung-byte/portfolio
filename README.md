@@ -6,7 +6,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Machine Learning
 	- __Python__
-		- [Data Analysis of credit risk using Machine Learning models](https://github.com/janetcheung-byte/portfolio/tree/master/machine_learning): Data analysis of loans by machine learning models. Resampling and Ensembke Learning are the techniques used I used to build and evaluate models using the two following techniques from imbalanced-learn and Scikit-learn libraries.
+		- [Data Analysis of credit risk using Machine Learning models](https://github.com/janetcheung-byte/portfolio/tree/master/machine_learning): Data analysis of loans by machine learning models. Resampling and Ensemble Learning are the techniques used I used to build and evaluate models using the two following techniques from imbalanced-learn and Scikit-learn libraries.
 
 
 	_Tools: Scikit-learn, Pandas, Matplotlib, Sklearn, Imblearn
