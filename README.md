@@ -23,9 +23,9 @@ _Note: Data used in these projects is for demonstration purposes only._
 
 ### 📊 Data Analysis & Visualization
 - **[Customer Churn Analysis Dashboard (Tableau)](https://public.tableau.com/app/profile/janet.ch2236/viz/d210_17307289169870/CustomerChurnAnalysisbyRegionIncomeServiceTypeandContract?publish=yes)** 
-    - [cite_start]Engineered an interactive geospatial dashboard identifying high-risk customer segments with churn rates exceeding 30%. 
-    - [cite_start]Leveraged SQL and Python to correlate churn with regional income and contract types to provide optimized retention strategies. 
-    - [cite_start]_Tools: Tableau, SQL, Python, Geospatial Analytics_ 
+    - Engineered an interactive geospatial dashboard identifying high-risk customer segments with churn rates exceeding 30%. 
+    - Leveraged SQL and Python to correlate churn with regional income and contract types to provide optimized retention strategies. 
+    - _Tools: Tableau, SQL, Python, Geospatial Analytics_ 
 
 - **[Visual Analysis of Real Estate Market Prices](https://github.com/janetcheung-byte/data_visualization)**
     - Conducted a visual analysis of historical house unit prices, sale price per square foot, and gross rent in San Francisco from 2010 to 2016.
