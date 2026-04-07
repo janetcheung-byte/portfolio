@@ -6,7 +6,7 @@ _Note: Data used in these projects is for demonstration purposes only._
 ---
 
 ### 🏆 Featured: Competitive Excellence
-- **[WiDS Datathon 2025 | [cite_start]Global Team Leader](https://www.kaggle.com/competitions/widsdatathon2025/leaderboard?search=curious+owl)** 
+- **[WiDS Datathon 2025 | Global Team Leader](https://www.kaggle.com/competitions/widsdatathon2025/leaderboard?search=curious+owl)** 
     - Led a high-performing 3-person team (Team: **Curious Owl**) to achieve a private leaderboard score of 0.770, outperforming thousands of global competitors in energy disaggregation prediction. 
     - Designed ensemble models and robust preprocessing scripts to prevent overfitting, maintaining high performance from public to private testing phases. 
     - _Tools: Python, Ensemble Modeling, Scikit-learn_
