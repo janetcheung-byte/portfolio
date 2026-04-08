@@ -22,6 +22,13 @@ _Note: Data used in these projects is for demonstration purposes only._
 ---
 
 ### 📊 Data Analysis & Visualization
+
+- **[NHANES Liver Health Analysis (Freelance Project)](https://colab.research.google.com/drive/1m9j53NRw-q-u-Lgr78muK5l2c5LjzOH_)**  
+    - Collaborated with a medical resident to analyze **NHANES 2017–2018 data**, exploring relationships between **serum ferritin, liver steatosis, alcohol intake, and liver-related outcomes**.  
+    - Cleaned, transformed, and preprocessed large-scale healthcare datasets using **Python (Pandas, Matplotlib, Seaborn)**.  
+    - Performed exploratory and statistical analysis, generating **visualizations and actionable insights** to support clinical research and identify potential liver disease risk factors.  
+    - _Tools: Python, Pandas, Matplotlib, Seaborn, Jupyter/Colab_
+
 - **[Customer Churn Analysis Dashboard (Tableau)](https://public.tableau.com/app/profile/janet.ch2236/viz/d210_17307289169870/CustomerChurnAnalysisbyRegionIncomeServiceTypeandContract?publish=yes)** 
     - Engineered an interactive geospatial dashboard identifying high-risk customer segments with churn rates exceeding 30%. 
     - Leveraged SQL and Python to correlate churn with regional income and contract types to provide optimized retention strategies. 
